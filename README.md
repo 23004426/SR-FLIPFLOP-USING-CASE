@@ -77,5 +77,6 @@ endmodule
 ![image](https://github.com/23004426/SR-FLIPFLOP-USING-CASE/assets/144979327/05d483ee-2350-4798-bf7d-c07dbb3c42c4)
 
 **RESULTS**
+
 Thus the implemention of SR flipflop using verilog and the RTL,timing diagram are generated successfully.
 
